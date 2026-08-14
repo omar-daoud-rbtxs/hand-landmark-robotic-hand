@@ -1,0 +1,3 @@
+/home/omar/hand_landmark/build/CMakeFiles/h_landmark.dir
+/home/omar/hand_landmark/build/CMakeFiles/edit_cache.dir
+/home/omar/hand_landmark/build/CMakeFiles/rebuild_cache.dir
