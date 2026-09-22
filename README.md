@@ -1,4 +1,10 @@
 # HandLandmark Robotic Hand Control System
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Robotics](https://img.shields.io/badge/Hardware-Robotic_Hand-E34F26?style=flat)
 
 ![HandLandmark System Demonstration](./assets/demo.gif)
 
